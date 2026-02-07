@@ -106,7 +106,3 @@ Se recomienda probar:
 - Casos límite (`0000`, `1111`)
 
 ---
-
-### Autor
-
-Proyecto desarrollado con fines académicos para el estudio de lógica digital y arquitectura de computadores.
